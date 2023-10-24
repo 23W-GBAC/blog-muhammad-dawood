@@ -1,7 +1,7 @@
 # blog-muhammad-dawood
+## Applications of AI in Medical Imaging
 ![Medical Imaging](https://github.com/23W-GBAC/blog-muhammad-dawood/assets/103655524/fe39cfe6-5d1d-46e5-b2b1-841988d01892)
 
-## Applications of AI in Medical Imaging
 The incorporation of artificial intelligence (AI) has caused a revolution in the ever-changing world of healthcare, notably in the field of medical imaging. This extraordinary convergence of technological technology and medical knowledge has opened up new vistas, altering the way we detect and treat numerous health disorders. In this article, we will look at how AI is being used in medical imaging and how this cutting-edge technology is improving the accuracy, efficiency, and accessibility of healthcare services.
 
 ### 1. Radiology and AI: A Transformative Duo
