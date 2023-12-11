@@ -26,6 +26,8 @@ cv2.imshow('Original Image', image)
 cv2.waitKey(0)
 ```
 
+<img width="988" alt="Screenshot 2023-12-11 at 18 45 18" src="https://github.com/23W-GBAC/blog-muhammad-dawood/assets/103655524/2673fb9f-64d4-4220-adf9-fb9294594d5f">
+
 1. **Read an image:** This line uses the cv2. imread function to read an image file named
 "bird.jpg' and load it into memory. The result is stored in the variable image.
 2. **Display the original image:** The 'cv2.imshow' function is employed to display the image in a graphical window. The window's title is set to 'Original Image', and the image data comes from the "image" variable.
@@ -67,6 +69,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+
+<img width="661" alt="Screenshot 2023-12-11 at 18 48 00" src="https://github.com/23W-GBAC/blog-muhammad-dawood/assets/103655524/06e6bf87-71b8-414b-a577-bb2a71035faf">
 
 1. **Import OpenCV:** The 'import cv2' statement brings the OpenCV library into the Python script, allowing access to its functions for computer vision and image processing.
 2. **Define a function for image resizing:** The resize_image function takes an image and the desired width and height as parameters, then uses cv2.resize to perform the resizing. The resized image is returned.
@@ -119,6 +123,8 @@ else:
     print(f"Error: Image not found at path {image_path}")
 
 ```
+<img width="759" alt="Screenshot 2023-12-11 at 18 54 38" src="https://github.com/23W-GBAC/blog-muhammad-dawood/assets/103655524/09d4821d-6870-48cb-aeec-b5ceb0d15275">
+
 
 1. **Import OpenCV:** The 'import cv2 statement brings the OpenCV library into the
 Python script.
@@ -135,7 +141,7 @@ This code provides a hands-on demonstration of image blurring using various kern
 
 ## Sharpening Images
 
-Now, let's add a touch of sharpness to our artistic endeavors:
+Now, let's add a touch of sharpness to our artistic endeavours:
 
 ```python
 import cv2
@@ -171,6 +177,8 @@ else:
     # Display an error message if the image is not found
     print(f"Error: Image not found at path {image_path}")
 ```
+<img width="841" alt="Screenshot 2023-12-11 at 18 57 01" src="https://github.com/23W-GBAC/blog-muhammad-dawood/assets/103655524/a423e1c8-3fa9-43c6-8870-e96e46e863ba">
+
 
 1. **Import OpenCV and NumPy:** The 'import cv2 and 'import numpy as np' statements bring the OpenCV and NumPy libraries into the script.
 2. **Define a function for image sharpening:** The sharpen_image function takes an image as input and applies a specified sharpening kernel using cv2. filter2D'. The result is displayed in a window titled 'Sharpened Image'.
