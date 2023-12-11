@@ -1,5 +1,5 @@
 
-# Introduction to Image Processing with Python and OpenCV
+# Image Processing with Python and OpenCV
 
 ---------------------------------------------------------
 
@@ -130,6 +130,7 @@ Python script.
 • If the image is not found, an error message is displayed.
 4. **Displaying blurred images:** The script showcases the effect of blurring on the image by displaying multiple versions with different kernel sizes in separate windows.
 5. **Wait for a key press to close windows:** The cv2 waitkey (0) ' line pauses the script until a key is pressed (O means waiting indefinitely), allowing the user to inspect the blurred images.
+
 This code provides a hands-on demonstration of image blurring using various kernel sizes in OpenCV, offering insights into the versatility of image processing techniques.
 
 ## Sharpening Images
@@ -179,5 +180,6 @@ else:
 • The script checks if the image is successfully loaded, and if so, it calls the sharpen_image' function.
 • If the image is not found, an error message is displayed.
 4. **Displaying the sharpened image:** The script showcases the effect of sharpening on the image by displaying the result in a window.
-5. **Wait for a key press to close the window:**The cv2 waitkey(0) * line pauses the script until a key is pressed (0 means waiting indefinitely), allowing the user to inspect the sharpened image.
+5. **Wait for a key press to close the window:** The cv2 waitkey(0) * line pauses the script until a key is pressed (0 means waiting indefinitely), allowing the user to inspect the sharpened image.
+   
 This code provides a practical illustration of image sharpening using a specified kernel in OpenCV, demonstrating the transformative power of image processing techniques.
