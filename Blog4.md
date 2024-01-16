@@ -1,4 +1,4 @@
-# Navigating the Code Maze: My Journey to Chrome Extension Mastery
+# Making Daily Gym Tasks Google Extension
 ---------------------------------------------------------
 
 By [Muhammad Dawood](https://github.com/mdawoodaslam)
@@ -22,7 +22,7 @@ In the quest for visual perfection, I modified the appearance of the navigation 
 
 ## Into the Extension Universe
 
-Now, the real challenge beckoned – creating a Chrome extension with task management prowess. Tasks were added with a click, checked off with satisfaction. A virtual task manager was emerging, ready to bring order to the chaos of daily gym routines.
+Now, the real challenge beckoned – creating a Chrome extension with task management prowess. Tasks were added with a click, and checked off with satisfaction. A virtual task manager was emerging, ready to bring order to the chaos of daily gym routines.
 
 The extension had a mission – to auto-magically incorporate specific tasks related to daily workouts. As the code danced to this rhythm, my Chrome extension evolved into a true fitness companion, effortlessly weaving workout plans into the daily routine.
 
