@@ -1,4 +1,8 @@
 # Navigating the Code Maze: My Journey to Chrome Extension Mastery
+---------------------------------------------------------
+
+By [Muhammad Dawood](https://github.com/mdawoodaslam)
+
 
 Hey fellow coders and curious minds! I'm Muhammad Dawood, a student on a quest to conquer the complexities of creating a Chrome extension. Today, I'm excited to take you through the highs, lows, and unexpected turns in my mission to build a task manager for seamless daily gym routines.
 
