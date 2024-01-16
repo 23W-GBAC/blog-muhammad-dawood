@@ -1,4 +1,8 @@
 # Navigating the Maze of Gym Workouts: My Journey in Building a Workout Plan Reminder
+---------------------------------------------------------
+
+By [Muhammad Dawood](https://github.com/mdawoodaslam)
+
 
 Hey there, fellow students and fitness enthusiasts! Today, I want to share my journey of finding the perfect project for my General Business Administration and Accounting course. Initially, I was drawn to the idea of creating an artificial intelligence model that could analyze chest X-rays to detect COVID-19 infections. Sounds cool, right? Well, it did, until I found myself drowning in complex coding and measures that were way beyond my current skill set.
 
@@ -16,7 +20,7 @@ Being a recent gym joiner, I found myself constantly juggling the question of wh
 - Plank: 3 sets, hold for 30 seconds each
 
 ### Day 2: Cardio (choose one)
-- 30 minutes brisk walking or jogging
+- 30 minutes of brisk walking or jogging
 
 ### Day 3: Rest or light activity
 
@@ -47,15 +51,15 @@ Being a recent gym joiner, I found myself constantly juggling the question of wh
 - Increase weights or resistance in each exercise
 
 ### Day 5: Cardio (choose one)
-- 40 minutes of your favorite cardio activity
+- 40 minutes of your favourite cardio activity
 
 ### Day 6: Rest or light activity
 
 ### Day 7: Rest
 
-Chat GPT not only spat out a personalized workout plan but also gave me insights into the BMI scale, something I was entirely new to. This solution worked wonders for my fitness routine, but a new challenge arose. How do I stay on top of my workout schedule without having to check it every single day?
+Chat GPT spat out a personalized workout plan and gave me insights into the BMI scale, something I was entirely new to. This solution worked wonders for my fitness routine, but a new challenge arose. How do I stay on top of my workout schedule without having to check it every single day?
 
-Enter the idea of a workout plan reminder. Picture this: a progress bar guiding me through each workout, offering instructions, and helping me keep track of the days. I envisioned a tool that not only reminded me of the day's plan but also displayed my progress over time. No more confusion about whether it's leg day or arm day – just a simple reminder to get moving.
+Enter the idea of a workout plan reminder. Picture this: a progress bar is guiding me through each workout, offering instructions, and helping me keep track of the days. I envisioned a tool that not only reminded me of the day's plan but also displayed my progress over time. No more confusion about whether it's leg or arm day – just a simple reminder to get moving.
 
 As a student navigating the realms of General Business Administration and Accounting, the credibility of my project was crucial. This wasn't just about building a fancy gadget; it was about solving a real-world problem faced by many – the struggle to stay consistent with a fitness routine.
 
