@@ -1,0 +1,13 @@
+import sqlite3
+
+connection = sqlite3.connect('appointments.db')
+cursor = connection.cursor()
+
+cursor.execute('''CREATE TABLE appointments (
+                    id INTEGER PRIMARY KEY,
+                    name TEXT,
+                    datetime TEXT,
+                    email TEXT
+                  )''')
+connection.commit()
+connection.close()
